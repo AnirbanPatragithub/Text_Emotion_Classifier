@@ -1,7 +1,6 @@
 
 from base64 import encode
 from secrets import choice
-from turtle import color
 import streamlit as st
 import altair as alt
 
